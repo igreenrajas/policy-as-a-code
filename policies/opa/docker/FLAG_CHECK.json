@@ -10,8 +10,8 @@
     },
     "severity": "HIGH",
     "description": "Ensure platform flag with FROM command is not used for Docker file",
-    "reference_id": "FLAG_CHECK",
+    "reference_id": "FLAG_CHECK_1",
     "category": "Infrastructure Security",
-    "id": "FLAG_CHECK",
+    "id": "FLAG_CHECK_1",
     "version": 1
 }
